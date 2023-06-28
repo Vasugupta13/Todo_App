@@ -1,16 +1,7 @@
-# todo_app
+# Todo_app
+Developed a simple Todo - App using Rest API with CRUD operations and a simple and clean UI which is easy to understand.
 
-A new Flutter project.
+Here's a video for the app - 
 
-## Getting Started
+https://github.com/Vasugupta13/Todo_App/assets/98811369/695b3e8a-624d-436b-aea4-388ade972321
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
